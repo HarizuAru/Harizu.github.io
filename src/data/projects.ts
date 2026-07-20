@@ -249,7 +249,7 @@ cloudtrail-detector/
       'Implement active-response automated IAM isolation loops',
       'Support Google Cloud audit logs ingestion'
     ],
-    githubUrl: 'https://github.com/HarizuAru',
+    githubUrl: 'https://github.com/HarizuAru/CloudTrail-Threat-Detection-Platform',
     demoUrl: '#demo',
     tags: ['aws', 'security', 'lambda', 'eventbridge', 'siem'],
     recruiterQuestions: {
